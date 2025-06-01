@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-品名：<p align="right">礼知荔-微矿荔枝</p>
+品名：礼知荔-微矿荔枝
 
-等级：<p align="right">一    级</p>
+等级：一    级
 
-产地：<p align="right">深圳南山</p>
+产地：深圳南山
 
 贮存条件：避光、干燥、冷鲜
 
-最佳食用时间：<p align="right">7天</p>
+最佳食用时间：7天
 
 
 A data-driven personal website
