@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "微矿荔枝介绍"
+title: "产品信息"
 author_profile: 
 redirect_from: 
   - /about/
@@ -15,7 +15,7 @@ redirect_from:
 
 贮存条件：避光、干燥、冷鲜
 
-最佳食用时间：7天
+最佳食用时间：3天
 
 
 微矿荔枝
