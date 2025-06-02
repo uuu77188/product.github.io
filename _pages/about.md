@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "微矿荔枝介绍"
-author_profile: 张正浩
+author_profile: 
 redirect_from: 
   - /about/
   - /about.html
