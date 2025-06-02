@@ -17,6 +17,10 @@ redirect_from:
 
 最佳食用时间：3天
 
+![产品信息](../images/first_page.png "产品信息")
+
+
+![产品信息](../images/2.png "产品信息")
 
 微矿荔枝
 ======
